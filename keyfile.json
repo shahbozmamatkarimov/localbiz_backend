@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "florify-2023",
+  "private_key_id": "aa466e4edb43e8d8857f39fa6dd6fb025e61e78a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMMZLP3aixv7ol\nb5Gxn+kC+UrOyjAfHxuBXTFGRViO3ElHMK1H16mc+zk+epbYUabslo4CHy4o1YHg\neOE0f98bERZE+h7pfUcViWvf080ARx6KRjGsa2W5yvYULShcftVZDCNWXqIVH8Du\n1BLxfy461dt4/bKzIy/7uBnIKV+YAx5yl+MSHXKV/24GBSeu2xLyHYEaCaTiD7wH\ni42TLpmGIPzXVNjO8u/p9VCQlr+R8Bk6ge7n0zbUSRW/2fMt2Vpu6pL20tK7lft6\niX5xDpWqu7yRuFaOZqxGJhatFOYngmEf7RyIhKmUe2x8dylfUPS+fd8ZYwIVNlPE\n3fgyOpKxAgMBAAECggEAXSppP+p049UEy7viD9dUa4Tu+vcJicmZtSaeKt/NDjG4\nRYESLutZekSt07H/TWfD78KpvJIZb4wrHA5LQrbtRt4++O3eWM5ONqdiztdGe8/3\nQUPRukeuPF08dew8tCcylNSS8v9umJDKaK3ejs1mfHXDE6s9c7qkVAely8wEz8gb\nyN6urGrLFG1LcuWMkmLT6w57/sKNjgBrZYEuLtcgjjEfty9QXrtdTUJHe3FllS+K\nfOrB5vF2m+cfQVtQiYmpS0aWt55fCSilIlju19SDccK4XvbBwt+xKal1bhUQ0cB2\nUHOWz+t1SSkO5yTRNUa45tmU9A8Igwao+2fpgLXIWQKBgQDr7pe4mCGtEazDJjay\nsq8qGtD0n+iE+Pab78o9pOU9SOv0pAdFCdLs8Mw6R6nW8Gg2eNW9kRkT9a0GmetI\nz0YkOy+1FPWhUgJp9rdKtkajYLBbd6IOozaEWQcY3Z9PUtAne+rgvt4u3pKXt68o\n4tmKnlkv3k6Slzc1CnEj19ilSwKBgQDdj+E2UOBuWjcZ5UKR43f/8L1grxW8RPYL\n2sJtiR1yLdESMoYRiP4kj/9ADJyymqwRkNhuNlHHHW9KcIw2IkjgGgNHPGHEiKgc\n745RYSHy9GVSvR5ocAwLSSHxvi2qontUXHio5akbHByBsCaisBMXenpeH8T28tTG\nmP6ANQ+2cwKBgB0c8P3nT+iCUNY35fIBGJpSesxk2xVlf1DYsxUOPvdkAzHJ99eu\nEagJQrpCU5PhUIrAOGfO+tA6taIl5iGy6g3Ye9eVgYXpj8CxoAaJHYhViw2OYqH5\nw+Vq8vQ/jMQGDQeCRAZ9pv8TmfU8xlF+RKfVSF4eyYVPQZG6+yEYJnSnAoGBAIyX\nKf9/XopnsKM7+Pv97T15E5JwR0iKMd7f15QN96NmM05qxOwHk8y7muqXli83OoyC\n7vMwgL/qi54ewLnxE3Ew0He5dwhw9sw1rocxLYuvTUQtQUhgISRgKavuU6f9Jmkn\nrGDwKlhLhEM+9aUyOUsiqtdjLWbOO/oxRv0vrmLFAoGAOV7GyEcZN3Km4q4hgg12\n9Pm3RkNFRuDvLxx4xNUbwK883gHtKVdHm4rP5OMFdJ3h5r+4K4ruABtvB3QxwEBb\nNk+JuBTg8zWcSQpOdTrGt/0khbuJw1Cg92UOAcbVyUtFbW3VH5UdWAB4Ra4dnLEC\nCkWroKXri9jhaZsVGo0wTNA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "florify@florify-2023.iam.gserviceaccount.com",
+  "client_id": "110796974530244386703",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/florify%40florify-2023.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
